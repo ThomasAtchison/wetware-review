@@ -1,0 +1,7 @@
+	
+	NSAlertView	*alertView = [[UIAlertView alloc] initWithTitle:@"Under Development" 
+													   message:@"This function is under development." 
+													  delegate:nil 
+											 cancelButtonTitle:@"OK" 
+											 otherButtonTitles:nil];
+				[alertView show];
